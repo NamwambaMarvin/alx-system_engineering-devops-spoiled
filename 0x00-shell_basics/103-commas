@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m -p -S -a -i-sort=none
+ls -m -p -a
